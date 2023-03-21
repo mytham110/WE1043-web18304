@@ -6,7 +6,7 @@
  arr.splice(0, 0, "Mon");
  arr.splice(2, 0, "Wed");
  arr.splice(4, 0, "Fri");
- arr.splice(6, 1, "Sun");
+ arr.splice(3, 1, "Sun");
 
  // In mảng kết quả
 
